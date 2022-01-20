@@ -21,6 +21,6 @@ cd GSAL
 ### 1. Data Preparation
 
 ### 2. Overview framework
-<!-- ![framework](./fig/微信截图_20220120140917.png)  -->
+<!-- ![framework](./fig/2.png)  -->
 <p align="center">
     <img src="./fig/1.png"/> <br />
