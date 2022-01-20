@@ -21,6 +21,15 @@ cd GSAL
 ### 1. Data Preparation
 
 ### 2. Overview framework
-<!-- ![framework](./fig/2.png)  -->
+### 3. Visualization Results
 <p align="center">
-    <img src="./fig/1.png"/> <br />
+    <img src="./fig/2.png"/> <br />
+    <em> 
+    </em>
+</p>
+
+<p align="center">
+    <img src="./fig/3.png"/> <br />
+    <em> 
+    </em>
+</p>
