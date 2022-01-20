@@ -19,7 +19,7 @@ git clone https://github.com/DLWK/GSAL.git
 cd GSAL
 ```
 ### 1. Data Preparation
-
+ + Download dataset from following [URL](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
 ### 2. Overview framework
 <p align="center">
     <img src="./fig/1.png"/> <br />
