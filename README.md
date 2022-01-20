@@ -26,6 +26,7 @@ cd GSAL
     <em> 
     </em>
 </p>
+
 ### 3. Visualization Results
 <p align="center">
     <img src="./fig/2.png"/> <br />
