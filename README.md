@@ -2,6 +2,16 @@
 
 This is the official pytorch implementation of the GSAL model:<br />
 
+## Preface
+- [2022/01/24]:**Submitted to the journal of "TMI " **
+
+
+### 🔥NEWS🔥 :
+- [2021/1/21]:fire: Release the inference code!
+- [2021/1/20] Create repository.
+
+
+
 
 ## Requirements
 Python 3.7<br />
