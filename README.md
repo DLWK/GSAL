@@ -4,7 +4,7 @@ This is the official pytorch implementation of the GSAL model:<br />
 
 ## Preface
 
-- [2022/01/26]:**Submitted to the journal of "IEEE TMI" （Under Review）**
+
 
 
 
