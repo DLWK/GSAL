@@ -1,4 +1,4 @@
-# Geometric Structure Adversarial Learning for Medical Image Segmentation (GSAL)
+# GSAL：Geometric Structure Adversarial Learning for Robust Medical Image Segmentation 
 
 This is the official pytorch implementation of the GSAL model:<br />
 
@@ -9,7 +9,7 @@ This is the official pytorch implementation of the GSAL model:<br />
 
 
 ### 🔥NEWS🔥 :
-- [2022/1/21]:fire: Release the inference code!
+- [2022/4/21]:fire: Release the inference code!
 - [2022/1/20] Create repository.
 
 
@@ -24,30 +24,12 @@ CUDA 10.0<br />
 
 ## Usage
 
-### 0. Installation
+###  Installation
 * Clone this repo
 ```
 git clone https://github.com/DLWK/GSAL.git
 cd GSAL
 ```
-### 1. Data Preparation
+### Data Preparation
  + Download dataset from following [URL](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
-### 2. Overview framework
-<p align="center">
-    <img src="./fig/1.png"/> <br />
-    <em> 
-    </em>
-</p>
 
-### 3. Visualization Results
-<p align="center">
-    <img src="./fig/2.png"/> <br />
-    <em> 
-    </em>
-</p>
-
-<p align="center">
-    <img src="./fig/3.png"/> <br />
-    <em> 
-    </em>
-</p>
