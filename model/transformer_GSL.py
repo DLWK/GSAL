@@ -267,7 +267,7 @@ class NetS(nn.Module):
 		# self.up2 = up(512, 128)
 		# self.up3 = up(256, 64)
 		# self.up4 = up(128, 64)
-		self.sap = DSA(512,dilation_level=[1,2,4,8])
+		# self.sap = DSA(512,dilation_level=[1,2,4,8])
 		# self.PyramidPooling =PyramidPooling(512,512)
          #  body
 		self.up1b = up(1024, 256)
@@ -303,7 +303,7 @@ class NetS(nn.Module):
 		x3 = self.conv3(x2)
 		x4 = self.conv4(x3)
 		x5 = self.conv5(x4)
-		x5=self.sap(x5)    #
+		# x5=self.sap(x5)    #
 		# x5 =self.PyramidPooling(x5)
         # #Mask
 		# x44 = self.up1(x5, x4)
