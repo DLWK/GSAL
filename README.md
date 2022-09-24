@@ -9,6 +9,7 @@ This is the official pytorch implementation of the GSAL model:<br />
 
 
 ### 🔥NEWS🔥 :
+- [2022/9/24]:fire: Release the other_models (with boundary)  code!
 - [2022/4/21]:fire: Release the inference code!
 - [2022/1/20] Create repository.
 
