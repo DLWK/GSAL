@@ -34,3 +34,13 @@ cd GSAL
 ### Data Preparation
  + Download dataset from following [URL](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
 
+
+###  Comparison with Other Segmentation Models using
+Boundary Information
+<p align="center">
+    <img src="./figs/2.png"/> <br />
+    <em> 
+    </em>
+</p>
+
+
