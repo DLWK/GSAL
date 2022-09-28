@@ -1,6 +1,15 @@
 # GSAL：Geometric Structure Adversarial Learning for Robust Medical Image Segmentation 
 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<!-- TOC -->
 This is the official pytorch implementation of the GSAL model:<br />
+> **Authors:** 
+> Kun Wang,
+> Xiaohong Zhang,
+> Yuting Lu,
+> Wei Zhang,
+> Sheng Huang,
+> Dan Yang,
 
 ## Preface
 
