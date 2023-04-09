@@ -52,3 +52,15 @@ cd GSAL
 </p>
 
 
+## Citation
+- If you find this work is helpful, please cite our paper
+```
+@article{wang2023gsal,
+  title={GSAL: Geometric Structure Adversarial Learning for Robust Medical Image Segmentation},
+  author={Wang, Kun and Zhang, Xiaohong and Lu, Yuting and Zhang, Wei and Huang, Sheng and Yang, Dan},
+  journal={Pattern Recognition},
+  pages={109596},
+  year={2023},
+  publisher={Elsevier}
+}
+```
